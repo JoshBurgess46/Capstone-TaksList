@@ -1,0 +1,11 @@
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp2.2\CapstoneTaskList.deps.json
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp2.2\CapstoneTaskList.runtimeconfig.json
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp2.2\CapstoneTaskList.runtimeconfig.dev.json
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp2.2\CapstoneTaskList.dll
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\bin\Debug\netcoreapp2.2\CapstoneTaskList.pdb
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp2.2\CapstoneTaskList.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp2.2\CapstoneTaskList.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp2.2\CapstoneTaskList.AssemblyInfoInputs.cache
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp2.2\CapstoneTaskList.AssemblyInfo.cs
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp2.2\CapstoneTaskList.dll
+C:\Users\JoshB\OneDrive\CapstoneTaskList\CapstoneTaskList\obj\Debug\netcoreapp2.2\CapstoneTaskList.pdb
